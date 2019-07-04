@@ -1,7 +1,6 @@
 // INTERVIEW CODING CHALLENGE #1
-// Link: https://blog.junaideffendi.com/
+// Link: https://blog.junaideffendi.com/2019/07/interview-coding-challenge-2-nth-prime.html
 // Author: Junaid Effendi
-
 
 val n = 6
 

@@ -23,9 +23,6 @@ def nthPrimeNumber(): Array[Int] = {
 nthPrimeNumber()(n)
 
 // Approach 2
-Using high order functions and code cleaning!
-Passing an integer and returning an integer
-
 def nthPrimeNumber(n: Int) : Int = {
   val range = (1 to 10 * n).toArray
   val result = range.map(i => 
